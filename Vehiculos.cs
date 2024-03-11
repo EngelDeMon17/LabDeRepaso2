@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LabDeRepaso2
 {
-    class Vehiculos
+    class Vehiculo
     {
         string placa;
         string marca;
